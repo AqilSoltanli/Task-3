@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+html,body{
+    scroll-behavior: smooth;
+}
+
+#header{
+    background-color: #212529;
+    padding: 2rem;
+}
+
+.all{margin: auto;
+
+}
+
+#header a{
+   float: right;
+   color:rgba(255, 255, 255, 0.55);
+   padding-right: 10px;
+   font-size: 16px;
+   
+}
+
+
+#first{
+    background-color:#287EFD ;
+    text-align: center;
+    padding: 10rem;
+}
+#first h1{
+    color:white ;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+#first p{
+    font-size: 20px;
+    color: white;
+    margin-bottom: 16px;
+}
+
+#first a{
+  
+    border-radius: 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+    background-color: #f8f9fa;
+    color: black;
+    font-weight: bolder;
+    
+}
+
+#about{
+    background-color:#FFFFFF; 
+    padding: 8rem;
+    text-align: center;
+    float: inline-end;
+    margin: auto;
+}
+
+#about h2{
+    font-size: 2rem;
+}
+
+#about p {
+    font-size: 20px;
+}
+
+#about ul {
+    margin-left: 2rem;
+    margin-top: 10px;
+}
+
+#about ul li{
+    font-size: 1rem;
+}
+
+#services{
+    background-color:#F8F9FA ;
+    padding: 8rem;
+    text-align: center;
+    
+}
+#services h2{
+    font-size: 2rem;
+
+}
+
+#services p{
+    font-size: 20px;
+}
+
+#Contact{
+    background-color:#FFFFFF; 
+    padding: 8rem;
+    text-align: center;
+}
+
+#Contact h2{
+    font-size: 2rem;
+}
+
+#contact p{
+    font-size: 20px;
+}
